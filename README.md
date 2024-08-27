@@ -11,5 +11,6 @@ TheMrMobin/TheMrMobin is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![My SVG Image](https://raw.githubusercontent.com/myusername/myrepository/main/images/image.svg)](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<img src="[path/to/your/file.svg](https://github.com/username/repository/blob/main/images/yourfile.svg)" alt="Description of the SVG" />
+
 
